@@ -9,13 +9,23 @@
       "role": "assistant",
       "content": "Agent Gerardo is busy processing a previous request. Please wait.",
       "timestamp": "2026-06-10T13:18:25.637598"
+    },
+    {
+      "role": "user",
+      "content": "review this proposal following the guidelines",
+      "timestamp": "2026-06-13T14:37:44.402426"
+    },
+    {
+      "role": "assistant",
+      "content": "Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: [sk-proj**********************************************************************************************************************************************************jAA]. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+      "timestamp": "2026-06-13T14:37:44.578297"
     }
   ],
   "seeded": true,
-  "chat_id": "conv_e7a2ad1aca634ae6837db2627a13c918",
-  "openai_thread_id": "conv_e7a2ad1aca634ae6837db2627a13c918",
+  "chat_id": "conv_0fd4a0e09a02460ca616f0675e61e8c0",
+  "openai_thread_id": "conv_0fd4a0e09a02460ca616f0675e61e8c0",
   "blockchain_metadata": {
-    "total_blocks": 2,
+    "total_blocks": 4,
     "salt": ""
   }
 }

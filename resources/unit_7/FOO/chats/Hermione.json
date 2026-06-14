@@ -9,8 +9,23 @@
       "role": "assistant",
       "content": "Agent Hermione is busy processing a previous request. Please wait.",
       "timestamp": "2026-06-10T13:18:24.416006"
+    },
+    {
+      "role": "user",
+      "content": "review this proposal following the guidelines",
+      "timestamp": "2026-06-13T14:37:43.826736"
+    },
+    {
+      "role": "assistant",
+      "content": "Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: [sk-proj**********************************************************************************************************************************************************jAA]. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+      "timestamp": "2026-06-13T14:37:44.584262"
     }
   ],
   "seeded": true,
-  "chat_id": "conv_e6f4e781bafe4a5c959a19ff6c71b6d0"
+  "chat_id": "conv_1eab0c5c721c46bb966256f8910fddec",
+  "openai_thread_id": "conv_1eab0c5c721c46bb966256f8910fddec",
+  "blockchain_metadata": {
+    "total_blocks": 4,
+    "salt": ""
+  }
 }
